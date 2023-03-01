@@ -1,0 +1,24 @@
+{
+  "name": "beyond-importer",
+  "version": "0.0.0",
+  "description": "A Node.js-based DnD Beyond importer and parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rescheer/beyond-importer.git"
+  },
+  "keywords": [
+    "dnd",
+    "beyond",
+    "ddb"
+  ],
+  "author": "Robert Scheer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rescheer/beyond-importer/issues"
+  },
+  "homepage": "https://github.com/rescheer/beyond-importer#readme"
+}
